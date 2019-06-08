@@ -1,0 +1,17 @@
+
+td.room{  
+    width : 100px;  
+    text-align : right;  
+    font-weight : bold; 
+    background: url("/images/ui-bg_highlight.png") repeat-x scroll 50% 50% #CCCCCC; 
+} 
+table.table-bordered.table-hover.table-striped td.room_approve{
+    border-right:solid 0px;
+    background-color:#16ce00;
+    cursor: pointer;
+}
+table.table-bordered.table-hover.table-striped td.room_reserve{
+    border-right:solid 0px;
+    background-color:#d43f3a;
+    cursor: pointer;
+}
