@@ -3,7 +3,7 @@
 This is simple project with laravel with Docker 
 
 `Install`
-1. https://github.com/Mersock/meet_room_laravel.git
+1. git clone https://github.com/Mersock/meet_room_laravel.git
 
 2. Change file name .env.example to .env
 
