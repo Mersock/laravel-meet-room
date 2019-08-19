@@ -1,4 +1,4 @@
-## Meet Room with Laravel
+## Laravel Meet Room
 
 This is simple project with laravel with Docker 
 
